@@ -1,0 +1,13 @@
+## Interface: 30300
+## Title: Why Won't You Call Me Back?
+## Notes: In Combat Auto-Responder
+## Author: Xbalanque of Draka
+## Version: 3.3.5.1
+## X-Website: http://github.com/mythguided
+## X-Email: mytguided.mods@gmail.com
+## OptionalDeps: tekdebug
+
+## LoadManagers: AddonLoader
+## X-LoadOn-Always: delayed
+
+Core.lua
